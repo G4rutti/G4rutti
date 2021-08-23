@@ -1,3 +1,3 @@
 ## Eae!
 
-- 🌱 Estudando python e tkinter
+- 🌱 Estudando python, tkinter e SQLiteStudio
