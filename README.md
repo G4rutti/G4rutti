@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dci.com.br%2Fesporte%2Ffutebol%2Fliga-dos-  campeoes%2Fjogos-da-champions-league-e-onde-assistir-nesta-terca-feira-14-  09%2F176800%2F&psig=AOvVaw3Xw0gRabwMgaexqICNKH7J&ust=1634864856684000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjY262o2vMCFQAAAAAdAAAAABAD?width=676&height=676">
 </div>
   
 ##
