@@ -1,6 +1,6 @@
 ## Eae!
 
-- 🌱 Estudando python, MySQL e php
+- 🌱 Estudando python, MySQL e WebSraping
 <div align="center">
   <a href="https://github.com/G4rutti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=G4rutti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
