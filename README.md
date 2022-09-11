@@ -1,6 +1,6 @@
 ## Eae!
 
-- 🌱 Estudando Desenvolvimento de Sistemas, na Firjan SENAI Resende - RJ
+- 🌱 Cursando Desenvolvimento de Sistemas, na Firjan SENAI Resende - RJ
 <div align="center">
   <a href="https://github.com/G4rutti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=G4rutti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
