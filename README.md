@@ -1,10 +1,5 @@
 ## Bem vindos ao meu mundo!
 
-<h3>
-"Na minha cabeça, eu sou o melhor. Se não pensarmos assim não temos ambição. Eu tenho de pensar que, na minha profissão, eu sou o melhor. Posso não ser, mas na minha cabeça eu sou o melhor."
-</h3>
-<p>Cristiano Ronaldo.</p>
-
 <div align="center">
   <a href="https://github.com/G4rutti">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=G4rutti&theme=dark&background=000000"/>
