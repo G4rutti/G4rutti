@@ -2,6 +2,8 @@
 
 Full Stack Developer from Brazil 🇧🇷 building **LLM agents, data pipelines and the products around them**.
 
+🌐 **Portfolio:** [davi-garutti.vercel.app](https://davi-garutti.vercel.app)
+
 ## Stack
 
 **Languages:** TypeScript · Python · C# · Java  
