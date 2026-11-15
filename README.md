@@ -2,7 +2,9 @@
 
 Full Stack Developer from Brazil 🇧🇷 building **LLM agents, data pipelines and the products around them**.
 
-🌐 **Portfolio:** [davi-garutti.vercel.app](https://davi-garutti.vercel.app)
+🌐 **Portfolio:** [davi-garutti.vercel.app](https://davi-garutti.vercel.app)  
+💼 **LinkedIn:** [in/davigarutti](https://www.linkedin.com/in/davigarutti/)  
+✉️ **Email:** [davigarutti5@gmail.com](mailto:davigarutti5@gmail.com)
 
 ## Stack
 
